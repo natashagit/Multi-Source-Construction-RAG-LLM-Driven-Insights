@@ -1,4 +1,4 @@
-# Contech-Hackathon
+# Multi-Source Construction RAG: LLM-Driven Insights
 The solution presented effectively combines structured data (RDF-based knowledge graphs) and unstructured data (PDF documents) using advanced NLP techniques to create a comprehensive and responsive chatbot. Here's how the components interact to achieve the desired functionality:
 
 ![Architecture](image.png)
