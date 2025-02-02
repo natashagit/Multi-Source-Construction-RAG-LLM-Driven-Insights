@@ -2,7 +2,7 @@
 
 The solution presented effectively combines structured data (RDF-based knowledge graphs) and unstructured data (PDF documents) using advanced NLP techniques to create a comprehensive and responsive chatbot. Here's how the components interact to achieve the desired functionality:
 
-![image.png](GRYPS%20chatbot%201418dce874a580fa9d9bcbd70dcf8252/image.png)
+![image1.png](GRYPS%20chatbot%201418dce874a580fa9d9bcbd70dcf8252/image.png)
 
 ### **Summary of Functionality**
 
@@ -22,7 +22,7 @@ The solution presented effectively combines structured data (RDF-based knowledge
     - The top matches from both data sources are combined into a unified context.
     - The `openai.ChatCompletion` API with the GPT-4 model synthesizes the final response, providing a seamless summary or answer based on the integrated context.
 
-![image.png](GRYPS%20chatbot%201418dce874a580fa9d9bcbd70dcf8252/image%201.png)
+![image2.png](GRYPS%20chatbot%201418dce874a580fa9d9bcbd70dcf8252/image%201.png)
 
 ### **Implementation Highlights**
 
