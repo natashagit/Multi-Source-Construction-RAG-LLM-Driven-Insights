@@ -1,7 +1,7 @@
 # Contech-Hackathon
 The solution presented effectively combines structured data (RDF-based knowledge graphs) and unstructured data (PDF documents) using advanced NLP techniques to create a comprehensive and responsive chatbot. Here's how the components interact to achieve the desired functionality:
 
-![Architecture](./images.png)
+![Architecture](images.png)
 
 
 ### **Summary of Functionality**
