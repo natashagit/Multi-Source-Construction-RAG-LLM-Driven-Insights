@@ -22,7 +22,7 @@ The solution presented effectively combines structured data (RDF-based knowledge
     - The top matches from both data sources are combined into a unified context.
     - The `openai.ChatCompletion` API with the GPT-4 model synthesizes the final response, providing a seamless summary or answer based on the integrated context.
 
-![image.png](attachment:fb8719dd-0012-4a23-a5bf-65ec362b8dba:image.png)
+![Knowledge Graph](image1.png)
 
 ### **Implementation Highlights**
 
